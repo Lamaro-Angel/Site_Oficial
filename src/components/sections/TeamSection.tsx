@@ -4,8 +4,8 @@ const team = [
   {
     name: "Domingos Filipe",
     role: "Diretor Executivo",
-    image: "https://scontent.flad8-1.fna.fbcdn.net/v/t39.30808-6/555738106_1306982997639152_124067544831392774_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGZFuH28U87iUPqX6skiz5WeiJPagoaf9N6Ik9qChp_03a61Lswj7qnw2AZr2WIlENEkbkneGTz-j4j1AZZ917t&_nc_ohc=9naC5tqiZVAQ7kNvwEbXtD4&_nc_oc=AdngnjTi8OCAMTir7Tv6XfFE3tROAhBvixISA5PacEA80FCunOrq_K-Fek068fipJvM&_nc_zt=23&_nc_ht=scontent.flad8-1.fna&_nc_gid=xTuKYaHbMJs0tNmaM7A9nA&oh=00_AfmVuFFp-hjX_1LOe1rEnftzcgLxPRZx_zTINRbzNHjudw&oe=6952F0DA",
-    description: "20 anos de experiência em contabilidade empresarial e gestão financeira.",
+    image: "https://lh3.googleusercontent.com/a/ACg8ocJybd4ZgvPW6DFNfqCTz0ktP_j80Ok-4L8yN5DonIsDbhbehLsu6yg5OE8edsZ8N0AYIt_66kTS60lrJKElDSAdF9WPGhe_=s432-c-no",
+    description: "7 anos de experiência em contabilidade empresarial e gestão financeira.",
   },
   {
     name: "Vonique Trovoada",
@@ -16,15 +16,10 @@ const team = [
   {
     name: "Lázaro Filipe",
     role: "Contador Sênior",
-    image: "https://scontent.flad8-2.fna.fbcdn.net/v/t39.30808-6/488860255_1851147609064527_2411932305051796090_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFd0RRYs-12P11S1HEi6KTU7rJb3Wxc-bHuslvdbFz5sW5VqB2Q55nUw7rqEHB6wrbcveYP_S87X5wRCqm-JyKe&_nc_ohc=OcS0VzG6Wo8Q7kNvwEdZ6YI&_nc_oc=AdmLdewDL5-eNhlo64PKOoffaOquhwKOcbNBgR_FYQSOpInqEJn0bnGUmHBvQXVMDvg&_nc_zt=23&_nc_ht=scontent.flad8-2.fna&_nc_gid=nHjOpJAG_fsrm8m1NwdxGA&oh=00_AfmY9Z7EaGuOylOlBYKVp8zh6ZtrdqgNev8nT9Hfhte3YA&oe=695301B0",
+    image: "https://lh3.googleusercontent.com/a/ACg8ocKZe0PX_7HV8Z5LXwI4h1WGjJfBtwbx75Fwl49WjurrOCSnlldP=s432-c-no",
     description: "Expert em contabilidade gerencial e análise de demonstrativos.",
   },
-  {
-    name: "Juliana Costa",
-    role: "Coord. Departamento Pessoal",
-    image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=400&q=80",
-    description: "Especializada em legislação trabalhista e gestão de pessoas.",
-  },
+
 ];
 
 const TeamSection = () => {
