@@ -17,7 +17,7 @@ const team = [
     name: "Lázaro Filipe",
     role: "Contador Sênior",
     image: "https://lh3.googleusercontent.com/a/ACg8ocKZe0PX_7HV8Z5LXwI4h1WGjJfBtwbx75Fwl49WjurrOCSnlldP=s432-c-no",
-    description: "Expert em contabilidade gerencial e análise de demonstrativos.",
+    description: "Expert em programação web e automação de serviço.",
   },
 
 ];
